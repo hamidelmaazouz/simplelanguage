@@ -1,1 +1,1 @@
-com.oracle.truffle.sl.tck.SLTCKLanguageProvider
+org.hamidelmaazouz.graaljulia.tck.SLTCKLanguageProvider
