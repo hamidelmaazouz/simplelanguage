@@ -9,6 +9,7 @@
     <m2e.apt.activation>jdt_apt</m2e.apt.activation>
     <!-- If you update this number make sure the VERSION value in ./sl matches -->
     <graalvm.version>20.3.0</graalvm.version>
+    <antlr.version>4.7</antlr.version>
   </properties>
   <packaging>pom</packaging>
   <modules>
